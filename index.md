@@ -1,4 +1,4 @@
-## Welcome to Emily's Pages
+## Welcome to Emily Pages
 
 You can use the [editor on GitHub](https://github.com/emilycocochen860826/0925website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
